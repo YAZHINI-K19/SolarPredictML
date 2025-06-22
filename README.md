@@ -30,6 +30,3 @@ MIT License – free to use, modify, and share.
 
 ```
 
----
-
-
